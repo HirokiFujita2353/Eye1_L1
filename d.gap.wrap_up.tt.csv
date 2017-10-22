@@ -3,7 +3,7 @@
 "32643","Native",1,39,"wrap_up","tt","wrap_up tt",7,0,343,343,0.5,0.5,343
 "32645","Native",1,26,"wrap_up","tt","wrap_up tt",6,0,503,503,-0.5,-0.5,503
 "32647","Native",1,34,"wrap_up","tt","wrap_up tt",6,0,672,672,-0.5,-0.5,672
-"32649","Native",1,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"32649","Native",1,46,"wrap_up","tt","wrap_up tt",6,0,459,459,-0.5,-0.5,459
 "32651","Native",1,29,"wrap_up","tt","wrap_up tt",5,0,424,424,0.5,-0.5,424
 "32653","Native",1,36,"wrap_up","tt","wrap_up tt",8,0,1163,1163,-0.5,0.5,1163
 "32655","Native",1,30,"wrap_up","tt","wrap_up tt",6,0,542,542,-0.5,-0.5,542
@@ -61,7 +61,7 @@
 "32760","Native",3,41,"wrap_up","tt","wrap_up tt",7,0,317,317,0.5,0.5,317
 "32762","Native",3,27,"wrap_up","tt","wrap_up tt",5,0,536,536,0.5,-0.5,536
 "32764","Native",3,29,"wrap_up","tt","wrap_up tt",7,0,704,704,0.5,0.5,704
-"32766","Native",3,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"32766","Native",3,46,"wrap_up","tt","wrap_up tt",8,0,258,258,-0.5,0.5,258
 "32768","Native",3,28,"wrap_up","tt","wrap_up tt",6,0,350,350,-0.5,-0.5,350
 "32770","Native",3,35,"wrap_up","tt","wrap_up tt",5,0,220,220,0.5,-0.5,220
 "32772","Native",3,45,"wrap_up","tt","wrap_up tt",7,0,537,537,0.5,0.5,537
@@ -98,7 +98,7 @@
 "32833","Native",5,39,"wrap_up","tt","wrap_up tt",7,0,448,448,0.5,0.5,448
 "32835","Native",5,33,"wrap_up","tt","wrap_up tt",5,0,162,162,0.5,-0.5,162
 "32837","Native",5,30,"wrap_up","tt","wrap_up tt",6,0,213,213,-0.5,-0.5,213
-"32839","Native",5,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"32839","Native",5,46,"wrap_up","tt","wrap_up tt",6,0,173,173,-0.5,-0.5,173
 "32841","Native",5,25,"wrap_up","tt","wrap_up tt",5,0,370,370,0.5,-0.5,370
 "32843","Native",5,42,"wrap_up","tt","wrap_up tt",6,0,452,452,-0.5,-0.5,452
 "32845","Native",5,41,"wrap_up","tt","wrap_up tt",5,0,379,379,0.5,-0.5,379
@@ -137,7 +137,7 @@
 "32912","Native",6,48,"wrap_up","tt","wrap_up tt",5,0,280,280,0.5,-0.5,280
 "32914","Native",6,28,"wrap_up","tt","wrap_up tt",5,0,161,161,0.5,-0.5,161
 "32916","Native",6,31,"wrap_up","tt","wrap_up tt",8,0,280,280,-0.5,0.5,280
-"32918","Native",6,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
+"32918","Native",6,46,"wrap_up","tt","wrap_up tt",7,0,108,108,0.5,0.5,108
 "32920","Native",6,40,"wrap_up","tt","wrap_up tt",5,0,468,468,0.5,-0.5,468
 "32922","Native",6,42,"wrap_up","tt","wrap_up tt",7,0,245,245,0.5,0.5,245
 "32924","Native",6,45,"wrap_up","tt","wrap_up tt",6,0,135,135,-0.5,-0.5,135
@@ -156,7 +156,7 @@
 "32949","Native",7,47,"wrap_up","tt","wrap_up tt",5,0,1227,1227,0.5,-0.5,1227
 "32951","Native",7,42,"wrap_up","tt","wrap_up tt",8,0,1139,1139,-0.5,0.5,1139
 "32953","Native",7,29,"wrap_up","tt","wrap_up tt",7,0,141,141,0.5,0.5,141
-"32955","Native",7,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"32955","Native",7,46,"wrap_up","tt","wrap_up tt",8,0,334,334,-0.5,0.5,334
 "32957","Native",7,36,"wrap_up","tt","wrap_up tt",6,0,1624,1624,-0.5,-0.5,1624
 "32959","Native",7,39,"wrap_up","tt","wrap_up tt",5,0,517,517,0.5,-0.5,517
 "32961","Native",7,48,"wrap_up","tt","wrap_up tt",6,0,417,417,-0.5,-0.5,417
@@ -167,7 +167,7 @@
 "32971","Native",7,25,"wrap_up","tt","wrap_up tt",7,0,327,327,0.5,0.5,327
 "32973","Native",7,31,"wrap_up","tt","wrap_up tt",5,0,355,355,0.5,-0.5,355
 "32975","Native",7,37,"wrap_up","tt","wrap_up tt",7,0,202,202,0.5,0.5,202
-"32978","Native",8,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"32978","Native",8,46,"wrap_up","tt","wrap_up tt",5,0,452,452,0.5,-0.5,452
 "32980","Native",8,41,"wrap_up","tt","wrap_up tt",8,0,290,290,-0.5,0.5,290
 "32982","Native",8,39,"wrap_up","tt","wrap_up tt",6,0,277,277,-0.5,-0.5,277
 "32984","Native",8,35,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
@@ -210,7 +210,7 @@
 "33057","Native",9,43,"wrap_up","tt","wrap_up tt",7,0,721,721,0.5,0.5,721
 "33059","Native",9,44,"wrap_up","tt","wrap_up tt",8,0,875,875,-0.5,0.5,875
 "33061","Native",9,45,"wrap_up","tt","wrap_up tt",5,0,518,518,0.5,-0.5,518
-"33063","Native",9,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"33063","Native",9,46,"wrap_up","tt","wrap_up tt",6,0,105,105,-0.5,-0.5,105
 "33065","Native",9,30,"wrap_up","tt","wrap_up tt",6,0,304,304,-0.5,-0.5,304
 "33067","Native",9,25,"wrap_up","tt","wrap_up tt",5,0,421,421,0.5,-0.5,421
 "33069","Native",9,41,"wrap_up","tt","wrap_up tt",5,0,291,291,0.5,-0.5,291
@@ -234,7 +234,7 @@
 "33105","Native",10,48,"wrap_up","tt","wrap_up tt",5,0,325,325,0.5,-0.5,325
 "33107","Native",10,27,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
 "33109","Native",10,35,"wrap_up","tt","wrap_up tt",8,0,316,316,-0.5,0.5,316
-"33111","Native",10,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
+"33111","Native",10,46,"wrap_up","tt","wrap_up tt",7,0,312,312,0.5,0.5,312
 "33113","Native",10,38,"wrap_up","tt","wrap_up tt",7,0,86,86,0.5,0.5,86
 "33115","Native",10,34,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
 "33117","Native",10,44,"wrap_up","tt","wrap_up tt",5,0,206,206,0.5,-0.5,206
@@ -245,7 +245,7 @@
 "33127","Native",11,38,"wrap_up","tt","wrap_up tt",8,0,338,338,-0.5,0.5,338
 "33129","Native",11,26,"wrap_up","tt","wrap_up tt",8,0,260,260,-0.5,0.5,260
 "33131","Native",11,42,"wrap_up","tt","wrap_up tt",8,0,170,170,-0.5,0.5,170
-"33133","Native",11,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"33133","Native",11,46,"wrap_up","tt","wrap_up tt",8,0,170,170,-0.5,0.5,170
 "33135","Native",11,41,"wrap_up","tt","wrap_up tt",7,0,224,224,0.5,0.5,224
 "33137","Native",11,31,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
 "33139","Native",11,45,"wrap_up","tt","wrap_up tt",7,0,328,328,0.5,0.5,328
@@ -267,7 +267,7 @@
 "33171","Native",12,43,"wrap_up","tt","wrap_up tt",8,0,170,170,-0.5,0.5,170
 "33173","Native",12,25,"wrap_up","tt","wrap_up tt",6,0,316,316,-0.5,-0.5,316
 "33175","Native",12,26,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
-"33177","Native",12,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
+"33177","Native",12,46,"wrap_up","tt","wrap_up tt",7,0,276,276,0.5,0.5,276
 "33179","Native",12,31,"wrap_up","tt","wrap_up tt",8,0,156,156,-0.5,0.5,156
 "33181","Native",12,39,"wrap_up","tt","wrap_up tt",8,0,406,406,-0.5,0.5,406
 "33183","Native",12,38,"wrap_up","tt","wrap_up tt",7,0,154,154,0.5,0.5,154
@@ -319,7 +319,7 @@
 "33276","Native",14,45,"wrap_up","tt","wrap_up tt",5,0,355,355,0.5,-0.5,355
 "33278","Native",14,25,"wrap_up","tt","wrap_up tt",5,0,223,223,0.5,-0.5,223
 "33280","Native",14,48,"wrap_up","tt","wrap_up tt",8,0,293,293,-0.5,0.5,293
-"33282","Native",14,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"33282","Native",14,46,"wrap_up","tt","wrap_up tt",6,0,340,340,-0.5,-0.5,340
 "33284","Native",14,33,"wrap_up","tt","wrap_up tt",5,0,438,438,0.5,-0.5,438
 "33286","Native",14,26,"wrap_up","tt","wrap_up tt",6,0,979,979,-0.5,-0.5,979
 "33288","Native",14,37,"wrap_up","tt","wrap_up tt",5,0,192,192,0.5,-0.5,192
@@ -351,7 +351,7 @@
 "33339","Native",15,30,"wrap_up","tt","wrap_up tt",7,0,190,190,0.5,0.5,190
 "33341","Native",15,48,"wrap_up","tt","wrap_up tt",5,0,246,246,0.5,-0.5,246
 "33343","Native",15,45,"wrap_up","tt","wrap_up tt",6,0,129,129,-0.5,-0.5,129
-"33345","Native",15,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
+"33345","Native",15,46,"wrap_up","tt","wrap_up tt",7,0,206,206,0.5,0.5,206
 "33347","Native",15,37,"wrap_up","tt","wrap_up tt",6,0,155,155,-0.5,-0.5,155
 "33349","Native",15,36,"wrap_up","tt","wrap_up tt",5,0,839,839,0.5,-0.5,839
 "33351","Native",15,29,"wrap_up","tt","wrap_up tt",6,0,453,453,-0.5,-0.5,453
@@ -392,7 +392,7 @@
 "33421","Native",17,43,"wrap_up","tt","wrap_up tt",6,0,425,425,-0.5,-0.5,425
 "33423","Native",17,25,"wrap_up","tt","wrap_up tt",8,0,595,595,-0.5,0.5,595
 "33425","Native",17,38,"wrap_up","tt","wrap_up tt",5,0,216,216,0.5,-0.5,216
-"33427","Native",17,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"33427","Native",17,46,"wrap_up","tt","wrap_up tt",5,0,197,197,0.5,-0.5,197
 "33429","Native",17,40,"wrap_up","tt","wrap_up tt",7,0,267,267,0.5,0.5,267
 "33431","Native",17,37,"wrap_up","tt","wrap_up tt",8,0,786,786,-0.5,0.5,786
 "33433","Native",17,41,"wrap_up","tt","wrap_up tt",8,0,422,422,-0.5,0.5,422
@@ -413,7 +413,7 @@
 "33464","Native",18,40,"wrap_up","tt","wrap_up tt",8,0,603,603,-0.5,0.5,603
 "33466","Native",18,33,"wrap_up","tt","wrap_up tt",5,0,563,563,0.5,-0.5,563
 "33468","Native",18,42,"wrap_up","tt","wrap_up tt",6,0,378,378,-0.5,-0.5,378
-"33470","Native",18,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"33470","Native",18,46,"wrap_up","tt","wrap_up tt",6,0,318,318,-0.5,-0.5,318
 "33472","Native",18,30,"wrap_up","tt","wrap_up tt",6,0,266,266,-0.5,-0.5,266
 "33474","Native",18,27,"wrap_up","tt","wrap_up tt",7,0,591,591,0.5,0.5,591
 "33476","Native",18,47,"wrap_up","tt","wrap_up tt",7,0,430,430,0.5,0.5,430
@@ -471,7 +471,7 @@
 "33579","Native",20,43,"wrap_up","tt","wrap_up tt",5,0,316,316,0.5,-0.5,316
 "33581","Native",20,33,"wrap_up","tt","wrap_up tt",7,0,852,852,0.5,0.5,852
 "33583","Native",20,41,"wrap_up","tt","wrap_up tt",7,0,157,157,0.5,0.5,157
-"33585","Native",20,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"33585","Native",20,46,"wrap_up","tt","wrap_up tt",8,0,130,130,-0.5,0.5,130
 "33587","Native",20,39,"wrap_up","tt","wrap_up tt",5,0,256,256,0.5,-0.5,256
 "33589","Native",20,35,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
 "33591","Native",20,31,"wrap_up","tt","wrap_up tt",5,0,432,432,0.5,-0.5,432
@@ -497,7 +497,7 @@
 "33632","Native",21,25,"wrap_up","tt","wrap_up tt",8,0,838,838,-0.5,0.5,838
 "33634","Native",21,37,"wrap_up","tt","wrap_up tt",8,0,400,400,-0.5,0.5,400
 "33636","Native",21,27,"wrap_up","tt","wrap_up tt",6,0,474,474,-0.5,-0.5,474
-"33638","Native",21,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"33638","Native",21,46,"wrap_up","tt","wrap_up tt",5,0,224,224,0.5,-0.5,224
 "33640","Native",21,42,"wrap_up","tt","wrap_up tt",5,0,486,486,0.5,-0.5,486
 "33642","Native",21,45,"wrap_up","tt","wrap_up tt",8,0,514,514,-0.5,0.5,514
 "33644","Native",21,35,"wrap_up","tt","wrap_up tt",6,0,154,154,-0.5,-0.5,154
@@ -564,7 +564,7 @@
 "33766","Native",24,31,"wrap_up","tt","wrap_up tt",8,0,713,713,-0.5,0.5,713
 "33768","Native",24,32,"wrap_up","tt","wrap_up tt",5,0,428,428,0.5,-0.5,428
 "33770","Native",24,30,"wrap_up","tt","wrap_up tt",7,0,86,86,0.5,0.5,86
-"33772","Native",24,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
+"33772","Native",24,46,"wrap_up","tt","wrap_up tt",7,0,392,392,0.5,0.5,392
 "33774","Native",24,35,"wrap_up","tt","wrap_up tt",8,0,133,133,-0.5,0.5,133
 "33776","Native",24,37,"wrap_up","tt","wrap_up tt",6,0,575,575,-0.5,-0.5,575
 "33778","Native",24,25,"wrap_up","tt","wrap_up tt",6,0,490,490,-0.5,-0.5,490
@@ -577,7 +577,7 @@
 "33792","Native",24,26,"wrap_up","tt","wrap_up tt",7,0,826,826,0.5,0.5,826
 "33794","Native",25,48,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
 "33796","Native",25,28,"wrap_up","tt","wrap_up tt",6,0,1358,1358,-0.5,-0.5,1358
-"33798","Native",25,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"33798","Native",25,46,"wrap_up","tt","wrap_up tt",8,0,241,241,-0.5,0.5,241
 "33800","Native",25,27,"wrap_up","tt","wrap_up tt",5,0,525,525,0.5,-0.5,525
 "33802","Native",25,25,"wrap_up","tt","wrap_up tt",7,0,535,535,0.5,0.5,535
 "33804","Native",25,43,"wrap_up","tt","wrap_up tt",5,0,162,162,0.5,-0.5,162
@@ -603,7 +603,7 @@
 "33843","Native",26,33,"wrap_up","tt","wrap_up tt",8,0,289,289,-0.5,0.5,289
 "33845","Native",26,30,"wrap_up","tt","wrap_up tt",5,0,436,436,0.5,-0.5,436
 "33847","Native",26,42,"wrap_up","tt","wrap_up tt",5,0,259,259,0.5,-0.5,259
-"33849","Native",26,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"33849","Native",26,46,"wrap_up","tt","wrap_up tt",5,0,92,92,0.5,-0.5,92
 "33851","Native",26,29,"wrap_up","tt","wrap_up tt",8,0,239,239,-0.5,0.5,239
 "33853","Native",26,28,"wrap_up","tt","wrap_up tt",7,0,214,214,0.5,0.5,214
 "33855","Native",26,31,"wrap_up","tt","wrap_up tt",6,0,119,119,-0.5,-0.5,119
@@ -639,7 +639,7 @@
 "33915","Native",27,30,"wrap_up","tt","wrap_up tt",6,0,433,433,-0.5,-0.5,433
 "33917","Native",27,45,"wrap_up","tt","wrap_up tt",5,0,101,101,0.5,-0.5,101
 "33919","Native",27,43,"wrap_up","tt","wrap_up tt",7,0,339,339,0.5,0.5,339
-"33921","Native",27,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"33921","Native",27,46,"wrap_up","tt","wrap_up tt",6,0,629,629,-0.5,-0.5,629
 "33923","Native",27,42,"wrap_up","tt","wrap_up tt",6,0,296,296,-0.5,-0.5,296
 "33925","Native",27,39,"wrap_up","tt","wrap_up tt",7,0,290,290,0.5,0.5,290
 "33927","Native",27,29,"wrap_up","tt","wrap_up tt",5,0,327,327,0.5,-0.5,327
@@ -657,7 +657,7 @@
 "33951","Native",28,41,"wrap_up","tt","wrap_up tt",6,0,192,192,-0.5,-0.5,192
 "33953","Native",28,32,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
 "33955","Native",28,35,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
-"33957","Native",28,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
+"33957","Native",28,46,"wrap_up","tt","wrap_up tt",7,0,334,334,0.5,0.5,334
 "33959","Native",28,40,"wrap_up","tt","wrap_up tt",5,0,258,258,0.5,-0.5,258
 "33961","Native",28,31,"wrap_up","tt","wrap_up tt",8,0,356,356,-0.5,0.5,356
 "33963","Native",28,48,"wrap_up","tt","wrap_up tt",5,0,380,380,0.5,-0.5,380
@@ -687,7 +687,7 @@
 "34012","Native",29,31,"wrap_up","tt","wrap_up tt",5,0,90,90,0.5,-0.5,90
 "34014","Native",29,36,"wrap_up","tt","wrap_up tt",6,0,560,560,-0.5,-0.5,560
 "34016","Native",29,38,"wrap_up","tt","wrap_up tt",8,0,98,98,-0.5,0.5,98
-"34018","Native",29,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"34018","Native",29,46,"wrap_up","tt","wrap_up tt",8,0,164,164,-0.5,0.5,164
 "34020","Native",29,39,"wrap_up","tt","wrap_up tt",5,0,482,482,0.5,-0.5,482
 "34022","Native",29,35,"wrap_up","tt","wrap_up tt",5,0,256,256,0.5,-0.5,256
 "34024","Native",29,41,"wrap_up","tt","wrap_up tt",7,0,510,510,0.5,0.5,510
@@ -702,7 +702,7 @@
 "34042","Native",30,30,"wrap_up","tt","wrap_up tt",5,0,346,346,0.5,-0.5,346
 "34044","Native",30,41,"wrap_up","tt","wrap_up tt",8,0,198,198,-0.5,0.5,198
 "34046","Native",30,31,"wrap_up","tt","wrap_up tt",6,0,332,332,-0.5,-0.5,332
-"34048","Native",30,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"34048","Native",30,46,"wrap_up","tt","wrap_up tt",5,0,196,196,0.5,-0.5,196
 "34050","Native",30,27,"wrap_up","tt","wrap_up tt",6,0,190,190,-0.5,-0.5,190
 "34052","Native",30,43,"wrap_up","tt","wrap_up tt",6,0,118,118,-0.5,-0.5,118
 "34054","Native",30,37,"wrap_up","tt","wrap_up tt",8,0,520,520,-0.5,0.5,520
@@ -780,7 +780,7 @@
 "34198","Native",33,47,"wrap_up","tt","wrap_up tt",5,0,412,412,0.5,-0.5,412
 "34200","Native",33,43,"wrap_up","tt","wrap_up tt",5,0,630,630,0.5,-0.5,630
 "34202","Native",33,28,"wrap_up","tt","wrap_up tt",6,0,462,462,-0.5,-0.5,462
-"34204","Native",33,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"34204","Native",33,46,"wrap_up","tt","wrap_up tt",8,0,556,556,-0.5,0.5,556
 "34206","Native",33,38,"wrap_up","tt","wrap_up tt",8,0,344,344,-0.5,0.5,344
 "34208","Native",33,44,"wrap_up","tt","wrap_up tt",6,0,324,324,-0.5,-0.5,324
 "34210","Native",33,33,"wrap_up","tt","wrap_up tt",7,0,412,412,0.5,0.5,412
@@ -809,7 +809,7 @@
 "34255","Native",34,34,"wrap_up","tt","wrap_up tt",5,0,138,138,0.5,-0.5,138
 "34257","Native",34,35,"wrap_up","tt","wrap_up tt",6,0,249,249,-0.5,-0.5,249
 "34259","Native",34,37,"wrap_up","tt","wrap_up tt",8,0,860,860,-0.5,0.5,860
-"34261","Native",34,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"34261","Native",34,46,"wrap_up","tt","wrap_up tt",5,0,190,190,0.5,-0.5,190
 "34263","Native",34,36,"wrap_up","tt","wrap_up tt",7,0,830,830,0.5,0.5,830
 "34265","Native",34,33,"wrap_up","tt","wrap_up tt",8,0,183,183,-0.5,0.5,183
 "34267","Native",34,42,"wrap_up","tt","wrap_up tt",5,0,235,235,0.5,-0.5,235
@@ -825,7 +825,7 @@
 "34288","Native",35,33,"wrap_up","tt","wrap_up tt",8,0,722,722,-0.5,0.5,722
 "34290","Native",35,29,"wrap_up","tt","wrap_up tt",8,0,448,448,-0.5,0.5,448
 "34292","Native",35,41,"wrap_up","tt","wrap_up tt",8,0,222,222,-0.5,0.5,222
-"34294","Native",35,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"34294","Native",35,46,"wrap_up","tt","wrap_up tt",5,0,368,368,0.5,-0.5,368
 "34296","Native",35,45,"wrap_up","tt","wrap_up tt",8,0,372,372,-0.5,0.5,372
 "34298","Native",35,39,"wrap_up","tt","wrap_up tt",6,0,542,542,-0.5,-0.5,542
 "34300","Native",35,28,"wrap_up","tt","wrap_up tt",7,0,458,458,0.5,0.5,458
@@ -854,7 +854,7 @@
 "34346","Native",36,32,"wrap_up","tt","wrap_up tt",8,0,1049,1049,-0.5,0.5,1049
 "34348","Native",36,34,"wrap_up","tt","wrap_up tt",6,0,323,323,-0.5,-0.5,323
 "34350","Native",36,36,"wrap_up","tt","wrap_up tt",8,0,791,791,-0.5,0.5,791
-"34352","Native",36,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"34352","Native",36,46,"wrap_up","tt","wrap_up tt",6,0,97,97,-0.5,-0.5,97
 "34354","Native",36,39,"wrap_up","tt","wrap_up tt",7,0,323,323,0.5,0.5,323
 "34356","Native",36,27,"wrap_up","tt","wrap_up tt",7,0,531,531,0.5,0.5,531
 "34358","Native",36,33,"wrap_up","tt","wrap_up tt",5,0,275,275,0.5,-0.5,275
@@ -865,7 +865,7 @@
 "34368","Native",36,48,"wrap_up","tt","wrap_up tt",8,0,877,877,-0.5,0.5,877
 "34370","Native",37,26,"wrap_up","tt","wrap_up tt",7,0,723,723,0.5,0.5,723
 "34372","Native",37,45,"wrap_up","tt","wrap_up tt",6,0,191,191,-0.5,-0.5,191
-"34374","Native",37,46,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA
+"34374","Native",37,46,"wrap_up","tt","wrap_up tt",7,0,506,506,0.5,0.5,506
 "34376","Native",37,43,"wrap_up","tt","wrap_up tt",8,0,403,403,-0.5,0.5,403
 "34378","Native",37,31,"wrap_up","tt","wrap_up tt",8,0,264,264,-0.5,0.5,264
 "34380","Native",37,29,"wrap_up","tt","wrap_up tt",6,0,350,350,-0.5,-0.5,350
@@ -888,7 +888,7 @@
 "34414","Native",37,41,"wrap_up","tt","wrap_up tt",6,0,135,135,-0.5,-0.5,135
 "34416","Native",37,33,"wrap_up","tt","wrap_up tt",6,0,346,346,-0.5,-0.5,346
 "34417","Native",38,39,"wrap_up","tt","wrap_up tt",5,0,235,235,0.5,-0.5,235
-"34419","Native",38,46,"wrap_up","tt","wrap_up tt",8,1,0,NA,-0.5,0.5,NA
+"34419","Native",38,46,"wrap_up","tt","wrap_up tt",8,0,523,523,-0.5,0.5,523
 "34421","Native",38,25,"wrap_up","tt","wrap_up tt",7,0,418,418,0.5,0.5,418
 "34423","Native",38,27,"wrap_up","tt","wrap_up tt",5,0,133,133,0.5,-0.5,133
 "34425","Native",38,32,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
@@ -917,7 +917,7 @@
 "34471","Native",39,34,"wrap_up","tt","wrap_up tt",5,0,1379,1379,0.5,-0.5,1379
 "34473","Native",39,31,"wrap_up","tt","wrap_up tt",6,0,284,284,-0.5,-0.5,284
 "34475","Native",39,39,"wrap_up","tt","wrap_up tt",6,0,584,584,-0.5,-0.5,584
-"34477","Native",39,46,"wrap_up","tt","wrap_up tt",5,1,0,NA,0.5,-0.5,NA
+"34477","Native",39,46,"wrap_up","tt","wrap_up tt",5,0,440,440,0.5,-0.5,440
 "34479","Native",39,40,"wrap_up","tt","wrap_up tt",7,0,227,227,0.5,0.5,227
 "34481","Native",39,43,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
 "34483","Native",39,47,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
@@ -956,6 +956,6 @@
 "34550","Native",40,29,"wrap_up","tt","wrap_up tt",5,0,378,378,0.5,-0.5,378
 "34552","Native",40,33,"wrap_up","tt","wrap_up tt",5,0,123,123,0.5,-0.5,123
 "34554","Native",40,44,"wrap_up","tt","wrap_up tt",8,0,645,645,-0.5,0.5,645
-"34556","Native",40,46,"wrap_up","tt","wrap_up tt",6,1,0,NA,-0.5,-0.5,NA
+"34556","Native",40,46,"wrap_up","tt","wrap_up tt",6,0,127,127,-0.5,-0.5,127
 "34558","Native",40,41,"wrap_up","tt","wrap_up tt",5,0,163,163,0.5,-0.5,163
 "34560","Native",40,35,"wrap_up","tt","wrap_up tt",7,1,0,NA,0.5,0.5,NA

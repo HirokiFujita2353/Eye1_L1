@@ -3,7 +3,7 @@
 "30723","Native",1,39,"spillover2","tt","spillover2 tt",7,0,532,532,0.5,0.5,532
 "30725","Native",1,26,"spillover2","tt","spillover2 tt",6,0,185,185,-0.5,-0.5,185
 "30727","Native",1,34,"spillover2","tt","spillover2 tt",6,0,190,190,-0.5,-0.5,190
-"30729","Native",1,46,"spillover2","tt","spillover2 tt",6,0,1303,1303,-0.5,-0.5,1303
+"30729","Native",1,46,"spillover2","tt","spillover2 tt",6,0,844,844,-0.5,-0.5,844
 "30731","Native",1,29,"spillover2","tt","spillover2 tt",5,0,453,453,0.5,-0.5,453
 "30733","Native",1,36,"spillover2","tt","spillover2 tt",8,0,758,758,-0.5,0.5,758
 "30735","Native",1,30,"spillover2","tt","spillover2 tt",6,0,185,185,-0.5,-0.5,185
@@ -61,7 +61,7 @@
 "30840","Native",3,41,"spillover2","tt","spillover2 tt",7,0,249,249,0.5,0.5,249
 "30842","Native",3,27,"spillover2","tt","spillover2 tt",5,0,160,160,0.5,-0.5,160
 "30844","Native",3,29,"spillover2","tt","spillover2 tt",7,0,602,602,0.5,0.5,602
-"30846","Native",3,46,"spillover2","tt","spillover2 tt",8,0,946,946,-0.5,0.5,946
+"30846","Native",3,46,"spillover2","tt","spillover2 tt",8,0,688,688,-0.5,0.5,688
 "30848","Native",3,28,"spillover2","tt","spillover2 tt",6,0,485,485,-0.5,-0.5,485
 "30850","Native",3,35,"spillover2","tt","spillover2 tt",5,0,579,579,0.5,-0.5,579
 "30852","Native",3,45,"spillover2","tt","spillover2 tt",7,0,394,394,0.5,0.5,394
@@ -98,7 +98,7 @@
 "30913","Native",5,39,"spillover2","tt","spillover2 tt",7,0,299,299,0.5,0.5,299
 "30915","Native",5,33,"spillover2","tt","spillover2 tt",5,0,527,527,0.5,-0.5,527
 "30917","Native",5,30,"spillover2","tt","spillover2 tt",6,0,340,340,-0.5,-0.5,340
-"30919","Native",5,46,"spillover2","tt","spillover2 tt",6,0,1077,1077,-0.5,-0.5,1077
+"30919","Native",5,46,"spillover2","tt","spillover2 tt",6,0,904,904,-0.5,-0.5,904
 "30921","Native",5,25,"spillover2","tt","spillover2 tt",5,0,315,315,0.5,-0.5,315
 "30923","Native",5,42,"spillover2","tt","spillover2 tt",6,0,952,952,-0.5,-0.5,952
 "30925","Native",5,41,"spillover2","tt","spillover2 tt",5,0,435,435,0.5,-0.5,435
@@ -137,7 +137,7 @@
 "30992","Native",6,48,"spillover2","tt","spillover2 tt",5,0,225,225,0.5,-0.5,225
 "30994","Native",6,28,"spillover2","tt","spillover2 tt",5,0,342,342,0.5,-0.5,342
 "30996","Native",6,31,"spillover2","tt","spillover2 tt",8,0,233,233,-0.5,0.5,233
-"30998","Native",6,46,"spillover2","tt","spillover2 tt",7,0,965,965,0.5,0.5,965
+"30998","Native",6,46,"spillover2","tt","spillover2 tt",7,0,857,857,0.5,0.5,857
 "31000","Native",6,40,"spillover2","tt","spillover2 tt",5,1,0,NA,0.5,-0.5,NA
 "31002","Native",6,42,"spillover2","tt","spillover2 tt",7,0,126,126,0.5,0.5,126
 "31004","Native",6,45,"spillover2","tt","spillover2 tt",6,0,492,492,-0.5,-0.5,492
@@ -156,7 +156,7 @@
 "31029","Native",7,47,"spillover2","tt","spillover2 tt",5,0,1019,1019,0.5,-0.5,1019
 "31031","Native",7,42,"spillover2","tt","spillover2 tt",8,0,1090,1090,-0.5,0.5,1090
 "31033","Native",7,29,"spillover2","tt","spillover2 tt",7,0,637,637,0.5,0.5,637
-"31035","Native",7,46,"spillover2","tt","spillover2 tt",8,0,1521,1521,-0.5,0.5,1521
+"31035","Native",7,46,"spillover2","tt","spillover2 tt",8,0,1187,1187,-0.5,0.5,1187
 "31037","Native",7,36,"spillover2","tt","spillover2 tt",6,0,609,609,-0.5,-0.5,609
 "31039","Native",7,39,"spillover2","tt","spillover2 tt",5,0,747,747,0.5,-0.5,747
 "31041","Native",7,48,"spillover2","tt","spillover2 tt",6,0,756,756,-0.5,-0.5,756
@@ -167,7 +167,7 @@
 "31051","Native",7,25,"spillover2","tt","spillover2 tt",7,0,1447,1447,0.5,0.5,1447
 "31053","Native",7,31,"spillover2","tt","spillover2 tt",5,0,233,233,0.5,-0.5,233
 "31055","Native",7,37,"spillover2","tt","spillover2 tt",7,0,413,413,0.5,0.5,413
-"31058","Native",8,46,"spillover2","tt","spillover2 tt",5,0,842,842,0.5,-0.5,842
+"31058","Native",8,46,"spillover2","tt","spillover2 tt",5,0,390,390,0.5,-0.5,390
 "31060","Native",8,41,"spillover2","tt","spillover2 tt",8,0,432,432,-0.5,0.5,432
 "31062","Native",8,39,"spillover2","tt","spillover2 tt",6,0,471,471,-0.5,-0.5,471
 "31064","Native",8,35,"spillover2","tt","spillover2 tt",6,0,680,680,-0.5,-0.5,680
@@ -210,7 +210,7 @@
 "31137","Native",9,43,"spillover2","tt","spillover2 tt",7,0,146,146,0.5,0.5,146
 "31139","Native",9,44,"spillover2","tt","spillover2 tt",8,1,0,NA,-0.5,0.5,NA
 "31141","Native",9,45,"spillover2","tt","spillover2 tt",5,0,545,545,0.5,-0.5,545
-"31143","Native",9,46,"spillover2","tt","spillover2 tt",6,0,468,468,-0.5,-0.5,468
+"31143","Native",9,46,"spillover2","tt","spillover2 tt",6,0,363,363,-0.5,-0.5,363
 "31145","Native",9,30,"spillover2","tt","spillover2 tt",6,0,460,460,-0.5,-0.5,460
 "31147","Native",9,25,"spillover2","tt","spillover2 tt",5,0,359,359,0.5,-0.5,359
 "31149","Native",9,41,"spillover2","tt","spillover2 tt",5,0,353,353,0.5,-0.5,353
@@ -234,7 +234,7 @@
 "31185","Native",10,48,"spillover2","tt","spillover2 tt",5,0,359,359,0.5,-0.5,359
 "31187","Native",10,27,"spillover2","tt","spillover2 tt",8,0,146,146,-0.5,0.5,146
 "31189","Native",10,35,"spillover2","tt","spillover2 tt",8,0,816,816,-0.5,0.5,816
-"31191","Native",10,46,"spillover2","tt","spillover2 tt",7,0,1713,1713,0.5,0.5,NA
+"31191","Native",10,46,"spillover2","tt","spillover2 tt",7,0,1401,1401,0.5,0.5,1401
 "31193","Native",10,38,"spillover2","tt","spillover2 tt",7,0,304,304,0.5,0.5,304
 "31195","Native",10,34,"spillover2","tt","spillover2 tt",7,0,612,612,0.5,0.5,612
 "31197","Native",10,44,"spillover2","tt","spillover2 tt",5,0,201,201,0.5,-0.5,201
@@ -245,7 +245,7 @@
 "31207","Native",11,38,"spillover2","tt","spillover2 tt",8,0,1192,1192,-0.5,0.5,1192
 "31209","Native",11,26,"spillover2","tt","spillover2 tt",8,0,992,992,-0.5,0.5,992
 "31211","Native",11,42,"spillover2","tt","spillover2 tt",8,0,542,542,-0.5,0.5,542
-"31213","Native",11,46,"spillover2","tt","spillover2 tt",8,0,1174,1174,-0.5,0.5,1174
+"31213","Native",11,46,"spillover2","tt","spillover2 tt",8,0,1004,1004,-0.5,0.5,1004
 "31215","Native",11,41,"spillover2","tt","spillover2 tt",7,0,186,186,0.5,0.5,186
 "31217","Native",11,31,"spillover2","tt","spillover2 tt",5,0,366,366,0.5,-0.5,366
 "31219","Native",11,45,"spillover2","tt","spillover2 tt",7,0,704,704,0.5,0.5,704
@@ -267,7 +267,7 @@
 "31251","Native",12,43,"spillover2","tt","spillover2 tt",8,0,661,661,-0.5,0.5,661
 "31253","Native",12,25,"spillover2","tt","spillover2 tt",6,0,417,417,-0.5,-0.5,417
 "31255","Native",12,26,"spillover2","tt","spillover2 tt",7,0,535,535,0.5,0.5,535
-"31257","Native",12,46,"spillover2","tt","spillover2 tt",7,0,1104,1104,0.5,0.5,1104
+"31257","Native",12,46,"spillover2","tt","spillover2 tt",7,0,828,828,0.5,0.5,828
 "31259","Native",12,31,"spillover2","tt","spillover2 tt",8,0,309,309,-0.5,0.5,309
 "31261","Native",12,39,"spillover2","tt","spillover2 tt",8,0,357,357,-0.5,0.5,357
 "31263","Native",12,38,"spillover2","tt","spillover2 tt",7,0,541,541,0.5,0.5,541
@@ -319,7 +319,7 @@
 "31356","Native",14,45,"spillover2","tt","spillover2 tt",5,0,667,667,0.5,-0.5,667
 "31358","Native",14,25,"spillover2","tt","spillover2 tt",5,0,488,488,0.5,-0.5,488
 "31360","Native",14,48,"spillover2","tt","spillover2 tt",8,0,748,748,-0.5,0.5,748
-"31362","Native",14,46,"spillover2","tt","spillover2 tt",6,0,753,753,-0.5,-0.5,753
+"31362","Native",14,46,"spillover2","tt","spillover2 tt",6,0,413,413,-0.5,-0.5,413
 "31364","Native",14,33,"spillover2","tt","spillover2 tt",5,0,188,188,0.5,-0.5,188
 "31366","Native",14,26,"spillover2","tt","spillover2 tt",6,0,151,151,-0.5,-0.5,151
 "31368","Native",14,37,"spillover2","tt","spillover2 tt",5,0,211,211,0.5,-0.5,211
@@ -351,7 +351,7 @@
 "31419","Native",15,30,"spillover2","tt","spillover2 tt",7,0,222,222,0.5,0.5,222
 "31421","Native",15,48,"spillover2","tt","spillover2 tt",5,0,487,487,0.5,-0.5,487
 "31423","Native",15,45,"spillover2","tt","spillover2 tt",6,0,356,356,-0.5,-0.5,356
-"31425","Native",15,46,"spillover2","tt","spillover2 tt",7,0,991,991,0.5,0.5,991
+"31425","Native",15,46,"spillover2","tt","spillover2 tt",7,0,785,785,0.5,0.5,785
 "31427","Native",15,37,"spillover2","tt","spillover2 tt",6,0,183,183,-0.5,-0.5,183
 "31429","Native",15,36,"spillover2","tt","spillover2 tt",5,0,368,368,0.5,-0.5,368
 "31431","Native",15,29,"spillover2","tt","spillover2 tt",6,0,303,303,-0.5,-0.5,303
@@ -392,7 +392,7 @@
 "31501","Native",17,43,"spillover2","tt","spillover2 tt",6,0,228,228,-0.5,-0.5,228
 "31503","Native",17,25,"spillover2","tt","spillover2 tt",8,0,465,465,-0.5,0.5,465
 "31505","Native",17,38,"spillover2","tt","spillover2 tt",5,0,881,881,0.5,-0.5,881
-"31507","Native",17,46,"spillover2","tt","spillover2 tt",5,0,1171,1171,0.5,-0.5,1171
+"31507","Native",17,46,"spillover2","tt","spillover2 tt",5,0,974,974,0.5,-0.5,974
 "31509","Native",17,40,"spillover2","tt","spillover2 tt",7,0,126,126,0.5,0.5,126
 "31511","Native",17,37,"spillover2","tt","spillover2 tt",8,0,206,206,-0.5,0.5,206
 "31513","Native",17,41,"spillover2","tt","spillover2 tt",8,0,729,729,-0.5,0.5,729
@@ -413,7 +413,7 @@
 "31544","Native",18,40,"spillover2","tt","spillover2 tt",8,0,171,171,-0.5,0.5,171
 "31546","Native",18,33,"spillover2","tt","spillover2 tt",5,0,355,355,0.5,-0.5,355
 "31548","Native",18,42,"spillover2","tt","spillover2 tt",6,0,396,396,-0.5,-0.5,396
-"31550","Native",18,46,"spillover2","tt","spillover2 tt",6,0,1417,1417,-0.5,-0.5,1417
+"31550","Native",18,46,"spillover2","tt","spillover2 tt",6,0,1099,1099,-0.5,-0.5,1099
 "31552","Native",18,30,"spillover2","tt","spillover2 tt",6,0,453,453,-0.5,-0.5,453
 "31554","Native",18,27,"spillover2","tt","spillover2 tt",7,1,0,NA,0.5,0.5,NA
 "31556","Native",18,47,"spillover2","tt","spillover2 tt",7,0,417,417,0.5,0.5,417
@@ -471,7 +471,7 @@
 "31659","Native",20,43,"spillover2","tt","spillover2 tt",5,0,233,233,0.5,-0.5,233
 "31661","Native",20,33,"spillover2","tt","spillover2 tt",7,0,1229,1229,0.5,0.5,1229
 "31663","Native",20,41,"spillover2","tt","spillover2 tt",7,0,215,215,0.5,0.5,215
-"31665","Native",20,46,"spillover2","tt","spillover2 tt",8,0,587,587,-0.5,0.5,587
+"31665","Native",20,46,"spillover2","tt","spillover2 tt",8,0,457,457,-0.5,0.5,457
 "31667","Native",20,39,"spillover2","tt","spillover2 tt",5,0,645,645,0.5,-0.5,645
 "31669","Native",20,35,"spillover2","tt","spillover2 tt",5,0,1185,1185,0.5,-0.5,1185
 "31671","Native",20,31,"spillover2","tt","spillover2 tt",5,0,200,200,0.5,-0.5,200
@@ -497,7 +497,7 @@
 "31712","Native",21,25,"spillover2","tt","spillover2 tt",8,0,492,492,-0.5,0.5,492
 "31714","Native",21,37,"spillover2","tt","spillover2 tt",8,0,842,842,-0.5,0.5,842
 "31716","Native",21,27,"spillover2","tt","spillover2 tt",6,0,198,198,-0.5,-0.5,198
-"31718","Native",21,46,"spillover2","tt","spillover2 tt",5,0,730,730,0.5,-0.5,730
+"31718","Native",21,46,"spillover2","tt","spillover2 tt",5,0,506,506,0.5,-0.5,506
 "31720","Native",21,42,"spillover2","tt","spillover2 tt",5,0,170,170,0.5,-0.5,170
 "31722","Native",21,45,"spillover2","tt","spillover2 tt",8,0,200,200,-0.5,0.5,200
 "31724","Native",21,35,"spillover2","tt","spillover2 tt",6,0,418,418,-0.5,-0.5,418
@@ -564,7 +564,7 @@
 "31846","Native",24,31,"spillover2","tt","spillover2 tt",8,0,398,398,-0.5,0.5,398
 "31848","Native",24,32,"spillover2","tt","spillover2 tt",5,0,426,426,0.5,-0.5,426
 "31850","Native",24,30,"spillover2","tt","spillover2 tt",7,0,213,213,0.5,0.5,213
-"31852","Native",24,46,"spillover2","tt","spillover2 tt",7,0,1426,1426,0.5,0.5,1426
+"31852","Native",24,46,"spillover2","tt","spillover2 tt",7,0,1034,1034,0.5,0.5,1034
 "31854","Native",24,35,"spillover2","tt","spillover2 tt",8,0,398,398,-0.5,0.5,398
 "31856","Native",24,37,"spillover2","tt","spillover2 tt",6,0,257,257,-0.5,-0.5,257
 "31858","Native",24,25,"spillover2","tt","spillover2 tt",6,0,723,723,-0.5,-0.5,723
@@ -577,7 +577,7 @@
 "31872","Native",24,26,"spillover2","tt","spillover2 tt",7,0,704,704,0.5,0.5,704
 "31874","Native",25,48,"spillover2","tt","spillover2 tt",6,0,191,191,-0.5,-0.5,191
 "31876","Native",25,28,"spillover2","tt","spillover2 tt",6,0,726,726,-0.5,-0.5,726
-"31878","Native",25,46,"spillover2","tt","spillover2 tt",8,0,1262,1262,-0.5,0.5,1262
+"31878","Native",25,46,"spillover2","tt","spillover2 tt",8,0,1021,1021,-0.5,0.5,1021
 "31880","Native",25,27,"spillover2","tt","spillover2 tt",5,0,351,351,0.5,-0.5,351
 "31882","Native",25,25,"spillover2","tt","spillover2 tt",7,0,552,552,0.5,0.5,552
 "31884","Native",25,43,"spillover2","tt","spillover2 tt",5,0,475,475,0.5,-0.5,475
@@ -603,7 +603,7 @@
 "31923","Native",26,33,"spillover2","tt","spillover2 tt",8,0,613,613,-0.5,0.5,613
 "31925","Native",26,30,"spillover2","tt","spillover2 tt",5,0,800,800,0.5,-0.5,800
 "31927","Native",26,42,"spillover2","tt","spillover2 tt",5,0,208,208,0.5,-0.5,208
-"31929","Native",26,46,"spillover2","tt","spillover2 tt",5,0,727,727,0.5,-0.5,727
+"31929","Native",26,46,"spillover2","tt","spillover2 tt",5,0,635,635,0.5,-0.5,635
 "31931","Native",26,29,"spillover2","tt","spillover2 tt",8,0,549,549,-0.5,0.5,549
 "31933","Native",26,28,"spillover2","tt","spillover2 tt",7,0,175,175,0.5,0.5,175
 "31935","Native",26,31,"spillover2","tt","spillover2 tt",6,0,437,437,-0.5,-0.5,437
@@ -639,7 +639,7 @@
 "31995","Native",27,30,"spillover2","tt","spillover2 tt",6,0,406,406,-0.5,-0.5,406
 "31997","Native",27,45,"spillover2","tt","spillover2 tt",5,0,393,393,0.5,-0.5,393
 "31999","Native",27,43,"spillover2","tt","spillover2 tt",7,0,362,362,0.5,0.5,362
-"32001","Native",27,46,"spillover2","tt","spillover2 tt",6,0,1221,1221,-0.5,-0.5,1221
+"32001","Native",27,46,"spillover2","tt","spillover2 tt",6,0,592,592,-0.5,-0.5,592
 "32003","Native",27,42,"spillover2","tt","spillover2 tt",6,0,324,324,-0.5,-0.5,324
 "32005","Native",27,39,"spillover2","tt","spillover2 tt",7,0,1050,1050,0.5,0.5,1050
 "32007","Native",27,29,"spillover2","tt","spillover2 tt",5,0,550,550,0.5,-0.5,550
@@ -657,7 +657,7 @@
 "32031","Native",28,41,"spillover2","tt","spillover2 tt",6,0,206,206,-0.5,-0.5,206
 "32033","Native",28,32,"spillover2","tt","spillover2 tt",5,0,562,562,0.5,-0.5,562
 "32035","Native",28,35,"spillover2","tt","spillover2 tt",8,0,428,428,-0.5,0.5,428
-"32037","Native",28,46,"spillover2","tt","spillover2 tt",7,0,916,916,0.5,0.5,916
+"32037","Native",28,46,"spillover2","tt","spillover2 tt",7,0,582,582,0.5,0.5,582
 "32039","Native",28,40,"spillover2","tt","spillover2 tt",5,1,0,NA,0.5,-0.5,NA
 "32041","Native",28,31,"spillover2","tt","spillover2 tt",8,0,870,870,-0.5,0.5,870
 "32043","Native",28,48,"spillover2","tt","spillover2 tt",5,0,144,144,0.5,-0.5,144
@@ -687,7 +687,7 @@
 "32092","Native",29,31,"spillover2","tt","spillover2 tt",5,0,214,214,0.5,-0.5,214
 "32094","Native",29,36,"spillover2","tt","spillover2 tt",6,0,286,286,-0.5,-0.5,286
 "32096","Native",29,38,"spillover2","tt","spillover2 tt",8,0,270,270,-0.5,0.5,270
-"32098","Native",29,46,"spillover2","tt","spillover2 tt",8,0,1292,1292,-0.5,0.5,1292
+"32098","Native",29,46,"spillover2","tt","spillover2 tt",8,0,1128,1128,-0.5,0.5,1128
 "32100","Native",29,39,"spillover2","tt","spillover2 tt",5,0,224,224,0.5,-0.5,224
 "32102","Native",29,35,"spillover2","tt","spillover2 tt",5,0,174,174,0.5,-0.5,174
 "32104","Native",29,41,"spillover2","tt","spillover2 tt",7,0,244,244,0.5,0.5,244
@@ -702,7 +702,7 @@
 "32122","Native",30,30,"spillover2","tt","spillover2 tt",5,0,780,780,0.5,-0.5,780
 "32124","Native",30,41,"spillover2","tt","spillover2 tt",8,0,340,340,-0.5,0.5,340
 "32126","Native",30,31,"spillover2","tt","spillover2 tt",6,0,262,262,-0.5,-0.5,262
-"32128","Native",30,46,"spillover2","tt","spillover2 tt",5,0,626,626,0.5,-0.5,626
+"32128","Native",30,46,"spillover2","tt","spillover2 tt",5,0,430,430,0.5,-0.5,430
 "32130","Native",30,27,"spillover2","tt","spillover2 tt",6,0,236,236,-0.5,-0.5,236
 "32132","Native",30,43,"spillover2","tt","spillover2 tt",6,0,678,678,-0.5,-0.5,678
 "32134","Native",30,37,"spillover2","tt","spillover2 tt",8,0,506,506,-0.5,0.5,506
@@ -780,7 +780,7 @@
 "32278","Native",33,47,"spillover2","tt","spillover2 tt",5,0,596,596,0.5,-0.5,596
 "32280","Native",33,43,"spillover2","tt","spillover2 tt",5,0,232,232,0.5,-0.5,232
 "32282","Native",33,28,"spillover2","tt","spillover2 tt",6,0,584,584,-0.5,-0.5,584
-"32284","Native",33,46,"spillover2","tt","spillover2 tt",8,0,1354,1354,-0.5,0.5,1354
+"32284","Native",33,46,"spillover2","tt","spillover2 tt",8,0,798,798,-0.5,0.5,798
 "32286","Native",33,38,"spillover2","tt","spillover2 tt",8,0,590,590,-0.5,0.5,590
 "32288","Native",33,44,"spillover2","tt","spillover2 tt",6,0,320,320,-0.5,-0.5,320
 "32290","Native",33,33,"spillover2","tt","spillover2 tt",7,0,670,670,0.5,0.5,670
@@ -809,7 +809,7 @@
 "32335","Native",34,34,"spillover2","tt","spillover2 tt",5,0,251,251,0.5,-0.5,251
 "32337","Native",34,35,"spillover2","tt","spillover2 tt",6,0,313,313,-0.5,-0.5,313
 "32339","Native",34,37,"spillover2","tt","spillover2 tt",8,0,397,397,-0.5,0.5,397
-"32341","Native",34,46,"spillover2","tt","spillover2 tt",5,0,524,524,0.5,-0.5,524
+"32341","Native",34,46,"spillover2","tt","spillover2 tt",5,0,334,334,0.5,-0.5,334
 "32343","Native",34,36,"spillover2","tt","spillover2 tt",7,0,258,258,0.5,0.5,258
 "32345","Native",34,33,"spillover2","tt","spillover2 tt",8,0,222,222,-0.5,0.5,222
 "32347","Native",34,42,"spillover2","tt","spillover2 tt",5,0,223,223,0.5,-0.5,223
@@ -822,10 +822,10 @@
 "32362","Native",35,42,"spillover2","tt","spillover2 tt",5,0,572,572,0.5,-0.5,572
 "32364","Native",35,31,"spillover2","tt","spillover2 tt",6,0,428,428,-0.5,-0.5,428
 "32366","Native",35,40,"spillover2","tt","spillover2 tt",7,0,638,638,0.5,0.5,638
-"32368","Native",35,33,"spillover2","tt","spillover2 tt",8,0,1606,1606,-0.5,0.5,1606
+"32368","Native",35,33,"spillover2","tt","spillover2 tt",8,0,1606,1606,-0.5,0.5,NA
 "32370","Native",35,29,"spillover2","tt","spillover2 tt",8,0,414,414,-0.5,0.5,414
 "32372","Native",35,41,"spillover2","tt","spillover2 tt",8,0,698,698,-0.5,0.5,698
-"32374","Native",35,46,"spillover2","tt","spillover2 tt",5,0,808,808,0.5,-0.5,808
+"32374","Native",35,46,"spillover2","tt","spillover2 tt",5,0,440,440,0.5,-0.5,440
 "32376","Native",35,45,"spillover2","tt","spillover2 tt",8,0,324,324,-0.5,0.5,324
 "32378","Native",35,39,"spillover2","tt","spillover2 tt",6,0,196,196,-0.5,-0.5,196
 "32380","Native",35,28,"spillover2","tt","spillover2 tt",7,0,310,310,0.5,0.5,310
@@ -854,7 +854,7 @@
 "32426","Native",36,32,"spillover2","tt","spillover2 tt",8,0,1190,1190,-0.5,0.5,1190
 "32428","Native",36,34,"spillover2","tt","spillover2 tt",6,0,254,254,-0.5,-0.5,254
 "32430","Native",36,36,"spillover2","tt","spillover2 tt",8,0,272,272,-0.5,0.5,272
-"32432","Native",36,46,"spillover2","tt","spillover2 tt",6,0,1453,1453,-0.5,-0.5,1453
+"32432","Native",36,46,"spillover2","tt","spillover2 tt",6,0,1356,1356,-0.5,-0.5,1356
 "32434","Native",36,39,"spillover2","tt","spillover2 tt",7,0,176,176,0.5,0.5,176
 "32436","Native",36,27,"spillover2","tt","spillover2 tt",7,0,212,212,0.5,0.5,212
 "32438","Native",36,33,"spillover2","tt","spillover2 tt",5,0,565,565,0.5,-0.5,565
@@ -865,7 +865,7 @@
 "32448","Native",36,48,"spillover2","tt","spillover2 tt",8,0,390,390,-0.5,0.5,390
 "32450","Native",37,26,"spillover2","tt","spillover2 tt",7,0,193,193,0.5,0.5,193
 "32452","Native",37,45,"spillover2","tt","spillover2 tt",6,0,352,352,-0.5,-0.5,352
-"32454","Native",37,46,"spillover2","tt","spillover2 tt",7,0,943,943,0.5,0.5,943
+"32454","Native",37,46,"spillover2","tt","spillover2 tt",7,0,437,437,0.5,0.5,437
 "32456","Native",37,43,"spillover2","tt","spillover2 tt",8,0,386,386,-0.5,0.5,386
 "32458","Native",37,31,"spillover2","tt","spillover2 tt",8,0,256,256,-0.5,0.5,256
 "32460","Native",37,29,"spillover2","tt","spillover2 tt",6,0,178,178,-0.5,-0.5,178
@@ -888,7 +888,7 @@
 "32494","Native",37,41,"spillover2","tt","spillover2 tt",6,0,288,288,-0.5,-0.5,288
 "32496","Native",37,33,"spillover2","tt","spillover2 tt",6,0,154,154,-0.5,-0.5,154
 "32497","Native",38,39,"spillover2","tt","spillover2 tt",5,0,1416,1416,0.5,-0.5,1416
-"32499","Native",38,46,"spillover2","tt","spillover2 tt",8,0,2928,2928,-0.5,0.5,NA
+"32499","Native",38,46,"spillover2","tt","spillover2 tt",8,0,2405,2405,-0.5,0.5,NA
 "32501","Native",38,25,"spillover2","tt","spillover2 tt",7,0,452,452,0.5,0.5,452
 "32503","Native",38,27,"spillover2","tt","spillover2 tt",5,0,302,302,0.5,-0.5,302
 "32505","Native",38,32,"spillover2","tt","spillover2 tt",6,0,614,614,-0.5,-0.5,614
@@ -917,7 +917,7 @@
 "32551","Native",39,34,"spillover2","tt","spillover2 tt",5,0,851,851,0.5,-0.5,851
 "32553","Native",39,31,"spillover2","tt","spillover2 tt",6,0,254,254,-0.5,-0.5,254
 "32555","Native",39,39,"spillover2","tt","spillover2 tt",6,0,727,727,-0.5,-0.5,727
-"32557","Native",39,46,"spillover2","tt","spillover2 tt",5,0,1438,1438,0.5,-0.5,1438
+"32557","Native",39,46,"spillover2","tt","spillover2 tt",5,0,998,998,0.5,-0.5,998
 "32559","Native",39,40,"spillover2","tt","spillover2 tt",7,0,175,175,0.5,0.5,175
 "32561","Native",39,43,"spillover2","tt","spillover2 tt",6,0,479,479,-0.5,-0.5,479
 "32563","Native",39,47,"spillover2","tt","spillover2 tt",6,0,1007,1007,-0.5,-0.5,1007
@@ -956,6 +956,6 @@
 "32630","Native",40,29,"spillover2","tt","spillover2 tt",5,0,283,283,0.5,-0.5,283
 "32632","Native",40,33,"spillover2","tt","spillover2 tt",5,0,152,152,0.5,-0.5,152
 "32634","Native",40,44,"spillover2","tt","spillover2 tt",8,0,159,159,-0.5,0.5,159
-"32636","Native",40,46,"spillover2","tt","spillover2 tt",6,0,286,286,-0.5,-0.5,286
+"32636","Native",40,46,"spillover2","tt","spillover2 tt",6,0,159,159,-0.5,-0.5,159
 "32638","Native",40,41,"spillover2","tt","spillover2 tt",5,0,119,119,0.5,-0.5,119
 "32640","Native",40,35,"spillover2","tt","spillover2 tt",7,0,187,187,0.5,0.5,187

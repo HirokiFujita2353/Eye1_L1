@@ -3,7 +3,7 @@
 "9603","Native",1,39,"wrap_up","fp","wrap_up fp",7,0,343,343,0.5,0.5,343
 "9605","Native",1,26,"wrap_up","fp","wrap_up fp",6,0,503,503,-0.5,-0.5,503
 "9607","Native",1,34,"wrap_up","fp","wrap_up fp",6,0,377,377,-0.5,-0.5,377
-"9609","Native",1,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"9609","Native",1,46,"wrap_up","fp","wrap_up fp",6,0,284,284,-0.5,-0.5,284
 "9611","Native",1,29,"wrap_up","fp","wrap_up fp",5,0,424,424,0.5,-0.5,424
 "9613","Native",1,36,"wrap_up","fp","wrap_up fp",8,0,339,339,-0.5,0.5,339
 "9615","Native",1,30,"wrap_up","fp","wrap_up fp",6,0,542,542,-0.5,-0.5,542
@@ -61,7 +61,7 @@
 "9720","Native",3,41,"wrap_up","fp","wrap_up fp",7,0,317,317,0.5,0.5,317
 "9722","Native",3,27,"wrap_up","fp","wrap_up fp",5,0,259,259,0.5,-0.5,259
 "9724","Native",3,29,"wrap_up","fp","wrap_up fp",7,0,243,243,0.5,0.5,243
-"9726","Native",3,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"9726","Native",3,46,"wrap_up","fp","wrap_up fp",8,0,258,258,-0.5,0.5,258
 "9728","Native",3,28,"wrap_up","fp","wrap_up fp",6,0,192,192,-0.5,-0.5,192
 "9730","Native",3,35,"wrap_up","fp","wrap_up fp",5,0,220,220,0.5,-0.5,220
 "9732","Native",3,45,"wrap_up","fp","wrap_up fp",7,0,455,455,0.5,0.5,455
@@ -98,7 +98,7 @@
 "9793","Native",5,39,"wrap_up","fp","wrap_up fp",7,0,448,448,0.5,0.5,448
 "9795","Native",5,33,"wrap_up","fp","wrap_up fp",5,0,162,162,0.5,-0.5,162
 "9797","Native",5,30,"wrap_up","fp","wrap_up fp",6,0,213,213,-0.5,-0.5,213
-"9799","Native",5,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"9799","Native",5,46,"wrap_up","fp","wrap_up fp",6,0,173,173,-0.5,-0.5,173
 "9801","Native",5,25,"wrap_up","fp","wrap_up fp",5,0,370,370,0.5,-0.5,370
 "9803","Native",5,42,"wrap_up","fp","wrap_up fp",6,0,452,452,-0.5,-0.5,452
 "9805","Native",5,41,"wrap_up","fp","wrap_up fp",5,0,379,379,0.5,-0.5,379
@@ -137,7 +137,7 @@
 "9872","Native",6,48,"wrap_up","fp","wrap_up fp",5,0,280,280,0.5,-0.5,280
 "9874","Native",6,28,"wrap_up","fp","wrap_up fp",5,0,161,161,0.5,-0.5,161
 "9876","Native",6,31,"wrap_up","fp","wrap_up fp",8,0,280,280,-0.5,0.5,280
-"9878","Native",6,46,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
+"9878","Native",6,46,"wrap_up","fp","wrap_up fp",7,0,108,108,0.5,0.5,108
 "9880","Native",6,40,"wrap_up","fp","wrap_up fp",5,0,112,112,0.5,-0.5,112
 "9882","Native",6,42,"wrap_up","fp","wrap_up fp",7,0,245,245,0.5,0.5,245
 "9884","Native",6,45,"wrap_up","fp","wrap_up fp",6,0,135,135,-0.5,-0.5,135
@@ -156,7 +156,7 @@
 "9909","Native",7,47,"wrap_up","fp","wrap_up fp",5,0,549,549,0.5,-0.5,549
 "9911","Native",7,42,"wrap_up","fp","wrap_up fp",8,0,166,166,-0.5,0.5,166
 "9913","Native",7,29,"wrap_up","fp","wrap_up fp",7,0,141,141,0.5,0.5,141
-"9915","Native",7,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"9915","Native",7,46,"wrap_up","fp","wrap_up fp",8,0,334,334,-0.5,0.5,334
 "9917","Native",7,36,"wrap_up","fp","wrap_up fp",6,0,552,552,-0.5,-0.5,552
 "9919","Native",7,39,"wrap_up","fp","wrap_up fp",5,0,349,349,0.5,-0.5,349
 "9921","Native",7,48,"wrap_up","fp","wrap_up fp",6,0,229,229,-0.5,-0.5,229
@@ -167,7 +167,7 @@
 "9931","Native",7,25,"wrap_up","fp","wrap_up fp",7,0,327,327,0.5,0.5,327
 "9933","Native",7,31,"wrap_up","fp","wrap_up fp",5,0,355,355,0.5,-0.5,355
 "9935","Native",7,37,"wrap_up","fp","wrap_up fp",7,0,202,202,0.5,0.5,202
-"9938","Native",8,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"9938","Native",8,46,"wrap_up","fp","wrap_up fp",5,0,452,452,0.5,-0.5,452
 "9940","Native",8,41,"wrap_up","fp","wrap_up fp",8,0,290,290,-0.5,0.5,290
 "9942","Native",8,39,"wrap_up","fp","wrap_up fp",6,0,277,277,-0.5,-0.5,277
 "9944","Native",8,35,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
@@ -210,7 +210,7 @@
 "10017","Native",9,43,"wrap_up","fp","wrap_up fp",7,0,721,721,0.5,0.5,721
 "10019","Native",9,44,"wrap_up","fp","wrap_up fp",8,0,875,875,-0.5,0.5,875
 "10021","Native",9,45,"wrap_up","fp","wrap_up fp",5,0,518,518,0.5,-0.5,518
-"10023","Native",9,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"10023","Native",9,46,"wrap_up","fp","wrap_up fp",6,0,105,105,-0.5,-0.5,105
 "10025","Native",9,30,"wrap_up","fp","wrap_up fp",6,0,199,199,-0.5,-0.5,199
 "10027","Native",9,25,"wrap_up","fp","wrap_up fp",5,0,421,421,0.5,-0.5,421
 "10029","Native",9,41,"wrap_up","fp","wrap_up fp",5,0,291,291,0.5,-0.5,291
@@ -234,7 +234,7 @@
 "10065","Native",10,48,"wrap_up","fp","wrap_up fp",5,0,325,325,0.5,-0.5,325
 "10067","Native",10,27,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
 "10069","Native",10,35,"wrap_up","fp","wrap_up fp",8,0,316,316,-0.5,0.5,316
-"10071","Native",10,46,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
+"10071","Native",10,46,"wrap_up","fp","wrap_up fp",7,0,127,127,0.5,0.5,127
 "10073","Native",10,38,"wrap_up","fp","wrap_up fp",7,0,86,86,0.5,0.5,86
 "10075","Native",10,34,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
 "10077","Native",10,44,"wrap_up","fp","wrap_up fp",5,0,206,206,0.5,-0.5,206
@@ -245,7 +245,7 @@
 "10087","Native",11,38,"wrap_up","fp","wrap_up fp",8,0,338,338,-0.5,0.5,338
 "10089","Native",11,26,"wrap_up","fp","wrap_up fp",8,0,260,260,-0.5,0.5,260
 "10091","Native",11,42,"wrap_up","fp","wrap_up fp",8,0,170,170,-0.5,0.5,170
-"10093","Native",11,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"10093","Native",11,46,"wrap_up","fp","wrap_up fp",8,0,170,170,-0.5,0.5,170
 "10095","Native",11,41,"wrap_up","fp","wrap_up fp",7,0,224,224,0.5,0.5,224
 "10097","Native",11,31,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
 "10099","Native",11,45,"wrap_up","fp","wrap_up fp",7,0,328,328,0.5,0.5,328
@@ -267,7 +267,7 @@
 "10131","Native",12,43,"wrap_up","fp","wrap_up fp",8,0,170,170,-0.5,0.5,170
 "10133","Native",12,25,"wrap_up","fp","wrap_up fp",6,0,316,316,-0.5,-0.5,316
 "10135","Native",12,26,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
-"10137","Native",12,46,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
+"10137","Native",12,46,"wrap_up","fp","wrap_up fp",7,0,276,276,0.5,0.5,276
 "10139","Native",12,31,"wrap_up","fp","wrap_up fp",8,0,156,156,-0.5,0.5,156
 "10141","Native",12,39,"wrap_up","fp","wrap_up fp",8,0,296,296,-0.5,0.5,296
 "10143","Native",12,38,"wrap_up","fp","wrap_up fp",7,0,154,154,0.5,0.5,154
@@ -319,7 +319,7 @@
 "10236","Native",14,45,"wrap_up","fp","wrap_up fp",5,0,264,264,0.5,-0.5,264
 "10238","Native",14,25,"wrap_up","fp","wrap_up fp",5,0,223,223,0.5,-0.5,223
 "10240","Native",14,48,"wrap_up","fp","wrap_up fp",8,0,293,293,-0.5,0.5,293
-"10242","Native",14,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"10242","Native",14,46,"wrap_up","fp","wrap_up fp",6,0,340,340,-0.5,-0.5,340
 "10244","Native",14,33,"wrap_up","fp","wrap_up fp",5,0,438,438,0.5,-0.5,438
 "10246","Native",14,26,"wrap_up","fp","wrap_up fp",6,0,401,401,-0.5,-0.5,401
 "10248","Native",14,37,"wrap_up","fp","wrap_up fp",5,0,192,192,0.5,-0.5,192
@@ -351,7 +351,7 @@
 "10299","Native",15,30,"wrap_up","fp","wrap_up fp",7,0,190,190,0.5,0.5,190
 "10301","Native",15,48,"wrap_up","fp","wrap_up fp",5,0,97,97,0.5,-0.5,97
 "10303","Native",15,45,"wrap_up","fp","wrap_up fp",6,0,129,129,-0.5,-0.5,129
-"10305","Native",15,46,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
+"10305","Native",15,46,"wrap_up","fp","wrap_up fp",7,0,206,206,0.5,0.5,206
 "10307","Native",15,37,"wrap_up","fp","wrap_up fp",6,0,155,155,-0.5,-0.5,155
 "10309","Native",15,36,"wrap_up","fp","wrap_up fp",5,0,669,669,0.5,-0.5,669
 "10311","Native",15,29,"wrap_up","fp","wrap_up fp",6,0,205,205,-0.5,-0.5,205
@@ -392,7 +392,7 @@
 "10381","Native",17,43,"wrap_up","fp","wrap_up fp",6,0,425,425,-0.5,-0.5,425
 "10383","Native",17,25,"wrap_up","fp","wrap_up fp",8,0,595,595,-0.5,0.5,595
 "10385","Native",17,38,"wrap_up","fp","wrap_up fp",5,0,216,216,0.5,-0.5,216
-"10387","Native",17,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"10387","Native",17,46,"wrap_up","fp","wrap_up fp",5,0,197,197,0.5,-0.5,197
 "10389","Native",17,40,"wrap_up","fp","wrap_up fp",7,0,267,267,0.5,0.5,267
 "10391","Native",17,37,"wrap_up","fp","wrap_up fp",8,0,786,786,-0.5,0.5,786
 "10393","Native",17,41,"wrap_up","fp","wrap_up fp",8,0,321,321,-0.5,0.5,321
@@ -413,7 +413,7 @@
 "10424","Native",18,40,"wrap_up","fp","wrap_up fp",8,0,224,224,-0.5,0.5,224
 "10426","Native",18,33,"wrap_up","fp","wrap_up fp",5,0,563,563,0.5,-0.5,563
 "10428","Native",18,42,"wrap_up","fp","wrap_up fp",6,0,378,378,-0.5,-0.5,378
-"10430","Native",18,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"10430","Native",18,46,"wrap_up","fp","wrap_up fp",6,0,318,318,-0.5,-0.5,318
 "10432","Native",18,30,"wrap_up","fp","wrap_up fp",6,0,134,134,-0.5,-0.5,134
 "10434","Native",18,27,"wrap_up","fp","wrap_up fp",7,0,591,591,0.5,0.5,591
 "10436","Native",18,47,"wrap_up","fp","wrap_up fp",7,0,147,147,0.5,0.5,147
@@ -471,7 +471,7 @@
 "10539","Native",20,43,"wrap_up","fp","wrap_up fp",5,0,316,316,0.5,-0.5,316
 "10541","Native",20,33,"wrap_up","fp","wrap_up fp",7,0,657,657,0.5,0.5,657
 "10543","Native",20,41,"wrap_up","fp","wrap_up fp",7,0,157,157,0.5,0.5,157
-"10545","Native",20,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"10545","Native",20,46,"wrap_up","fp","wrap_up fp",8,0,130,130,-0.5,0.5,130
 "10547","Native",20,39,"wrap_up","fp","wrap_up fp",5,0,256,256,0.5,-0.5,256
 "10549","Native",20,35,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
 "10551","Native",20,31,"wrap_up","fp","wrap_up fp",5,0,432,432,0.5,-0.5,432
@@ -497,7 +497,7 @@
 "10592","Native",21,25,"wrap_up","fp","wrap_up fp",8,0,434,434,-0.5,0.5,434
 "10594","Native",21,37,"wrap_up","fp","wrap_up fp",8,0,400,400,-0.5,0.5,400
 "10596","Native",21,27,"wrap_up","fp","wrap_up fp",6,0,474,474,-0.5,-0.5,474
-"10598","Native",21,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"10598","Native",21,46,"wrap_up","fp","wrap_up fp",5,0,224,224,0.5,-0.5,224
 "10600","Native",21,42,"wrap_up","fp","wrap_up fp",5,0,486,486,0.5,-0.5,486
 "10602","Native",21,45,"wrap_up","fp","wrap_up fp",8,0,514,514,-0.5,0.5,514
 "10604","Native",21,35,"wrap_up","fp","wrap_up fp",6,0,154,154,-0.5,-0.5,154
@@ -564,7 +564,7 @@
 "10726","Native",24,31,"wrap_up","fp","wrap_up fp",8,0,151,151,-0.5,0.5,151
 "10728","Native",24,32,"wrap_up","fp","wrap_up fp",5,0,428,428,0.5,-0.5,428
 "10730","Native",24,30,"wrap_up","fp","wrap_up fp",7,0,86,86,0.5,0.5,86
-"10732","Native",24,46,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
+"10732","Native",24,46,"wrap_up","fp","wrap_up fp",7,0,392,392,0.5,0.5,392
 "10734","Native",24,35,"wrap_up","fp","wrap_up fp",8,0,133,133,-0.5,0.5,133
 "10736","Native",24,37,"wrap_up","fp","wrap_up fp",6,0,189,189,-0.5,-0.5,189
 "10738","Native",24,25,"wrap_up","fp","wrap_up fp",6,0,490,490,-0.5,-0.5,490
@@ -577,7 +577,7 @@
 "10752","Native",24,26,"wrap_up","fp","wrap_up fp",7,0,543,543,0.5,0.5,543
 "10754","Native",25,48,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
 "10756","Native",25,28,"wrap_up","fp","wrap_up fp",6,0,326,326,-0.5,-0.5,326
-"10758","Native",25,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"10758","Native",25,46,"wrap_up","fp","wrap_up fp",8,0,241,241,-0.5,0.5,241
 "10760","Native",25,27,"wrap_up","fp","wrap_up fp",5,0,254,254,0.5,-0.5,254
 "10762","Native",25,25,"wrap_up","fp","wrap_up fp",7,0,199,199,0.5,0.5,199
 "10764","Native",25,43,"wrap_up","fp","wrap_up fp",5,0,162,162,0.5,-0.5,162
@@ -603,7 +603,7 @@
 "10803","Native",26,33,"wrap_up","fp","wrap_up fp",8,0,170,170,-0.5,0.5,170
 "10805","Native",26,30,"wrap_up","fp","wrap_up fp",5,0,325,325,0.5,-0.5,325
 "10807","Native",26,42,"wrap_up","fp","wrap_up fp",5,0,259,259,0.5,-0.5,259
-"10809","Native",26,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"10809","Native",26,46,"wrap_up","fp","wrap_up fp",5,0,92,92,0.5,-0.5,92
 "10811","Native",26,29,"wrap_up","fp","wrap_up fp",8,0,144,144,-0.5,0.5,144
 "10813","Native",26,28,"wrap_up","fp","wrap_up fp",7,0,214,214,0.5,0.5,214
 "10815","Native",26,31,"wrap_up","fp","wrap_up fp",6,0,119,119,-0.5,-0.5,119
@@ -639,7 +639,7 @@
 "10875","Native",27,30,"wrap_up","fp","wrap_up fp",6,0,232,232,-0.5,-0.5,232
 "10877","Native",27,45,"wrap_up","fp","wrap_up fp",5,0,101,101,0.5,-0.5,101
 "10879","Native",27,43,"wrap_up","fp","wrap_up fp",7,0,339,339,0.5,0.5,339
-"10881","Native",27,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"10881","Native",27,46,"wrap_up","fp","wrap_up fp",6,0,629,629,-0.5,-0.5,629
 "10883","Native",27,42,"wrap_up","fp","wrap_up fp",6,0,296,296,-0.5,-0.5,296
 "10885","Native",27,39,"wrap_up","fp","wrap_up fp",7,0,290,290,0.5,0.5,290
 "10887","Native",27,29,"wrap_up","fp","wrap_up fp",5,0,327,327,0.5,-0.5,327
@@ -657,7 +657,7 @@
 "10911","Native",28,41,"wrap_up","fp","wrap_up fp",6,0,192,192,-0.5,-0.5,192
 "10913","Native",28,32,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
 "10915","Native",28,35,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
-"10917","Native",28,46,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
+"10917","Native",28,46,"wrap_up","fp","wrap_up fp",7,0,334,334,0.5,0.5,334
 "10919","Native",28,40,"wrap_up","fp","wrap_up fp",5,0,258,258,0.5,-0.5,258
 "10921","Native",28,31,"wrap_up","fp","wrap_up fp",8,0,150,150,-0.5,0.5,150
 "10923","Native",28,48,"wrap_up","fp","wrap_up fp",5,0,380,380,0.5,-0.5,380
@@ -687,7 +687,7 @@
 "10972","Native",29,31,"wrap_up","fp","wrap_up fp",5,0,90,90,0.5,-0.5,90
 "10974","Native",29,36,"wrap_up","fp","wrap_up fp",6,0,560,560,-0.5,-0.5,560
 "10976","Native",29,38,"wrap_up","fp","wrap_up fp",8,0,98,98,-0.5,0.5,98
-"10978","Native",29,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"10978","Native",29,46,"wrap_up","fp","wrap_up fp",8,0,164,164,-0.5,0.5,164
 "10980","Native",29,39,"wrap_up","fp","wrap_up fp",5,0,482,482,0.5,-0.5,482
 "10982","Native",29,35,"wrap_up","fp","wrap_up fp",5,0,256,256,0.5,-0.5,256
 "10984","Native",29,41,"wrap_up","fp","wrap_up fp",7,0,510,510,0.5,0.5,510
@@ -702,7 +702,7 @@
 "11002","Native",30,30,"wrap_up","fp","wrap_up fp",5,0,346,346,0.5,-0.5,346
 "11004","Native",30,41,"wrap_up","fp","wrap_up fp",8,0,198,198,-0.5,0.5,198
 "11006","Native",30,31,"wrap_up","fp","wrap_up fp",6,0,332,332,-0.5,-0.5,332
-"11008","Native",30,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"11008","Native",30,46,"wrap_up","fp","wrap_up fp",5,0,196,196,0.5,-0.5,196
 "11010","Native",30,27,"wrap_up","fp","wrap_up fp",6,0,190,190,-0.5,-0.5,190
 "11012","Native",30,43,"wrap_up","fp","wrap_up fp",6,0,118,118,-0.5,-0.5,118
 "11014","Native",30,37,"wrap_up","fp","wrap_up fp",8,0,164,164,-0.5,0.5,164
@@ -780,7 +780,7 @@
 "11158","Native",33,47,"wrap_up","fp","wrap_up fp",5,0,202,202,0.5,-0.5,202
 "11160","Native",33,43,"wrap_up","fp","wrap_up fp",5,0,630,630,0.5,-0.5,630
 "11162","Native",33,28,"wrap_up","fp","wrap_up fp",6,0,168,168,-0.5,-0.5,168
-"11164","Native",33,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"11164","Native",33,46,"wrap_up","fp","wrap_up fp",8,0,556,556,-0.5,0.5,556
 "11166","Native",33,38,"wrap_up","fp","wrap_up fp",8,0,344,344,-0.5,0.5,344
 "11168","Native",33,44,"wrap_up","fp","wrap_up fp",6,0,324,324,-0.5,-0.5,324
 "11170","Native",33,33,"wrap_up","fp","wrap_up fp",7,0,412,412,0.5,0.5,412
@@ -809,7 +809,7 @@
 "11215","Native",34,34,"wrap_up","fp","wrap_up fp",5,0,138,138,0.5,-0.5,138
 "11217","Native",34,35,"wrap_up","fp","wrap_up fp",6,0,249,249,-0.5,-0.5,249
 "11219","Native",34,37,"wrap_up","fp","wrap_up fp",8,0,860,860,-0.5,0.5,860
-"11221","Native",34,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"11221","Native",34,46,"wrap_up","fp","wrap_up fp",5,0,190,190,0.5,-0.5,190
 "11223","Native",34,36,"wrap_up","fp","wrap_up fp",7,0,830,830,0.5,0.5,830
 "11225","Native",34,33,"wrap_up","fp","wrap_up fp",8,0,183,183,-0.5,0.5,183
 "11227","Native",34,42,"wrap_up","fp","wrap_up fp",5,0,235,235,0.5,-0.5,235
@@ -825,7 +825,7 @@
 "11248","Native",35,33,"wrap_up","fp","wrap_up fp",8,0,248,248,-0.5,0.5,248
 "11250","Native",35,29,"wrap_up","fp","wrap_up fp",8,0,326,326,-0.5,0.5,326
 "11252","Native",35,41,"wrap_up","fp","wrap_up fp",8,0,222,222,-0.5,0.5,222
-"11254","Native",35,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"11254","Native",35,46,"wrap_up","fp","wrap_up fp",5,0,368,368,0.5,-0.5,368
 "11256","Native",35,45,"wrap_up","fp","wrap_up fp",8,0,372,372,-0.5,0.5,372
 "11258","Native",35,39,"wrap_up","fp","wrap_up fp",6,0,542,542,-0.5,-0.5,542
 "11260","Native",35,28,"wrap_up","fp","wrap_up fp",7,0,458,458,0.5,0.5,458
@@ -854,7 +854,7 @@
 "11306","Native",36,32,"wrap_up","fp","wrap_up fp",8,0,1049,1049,-0.5,0.5,1049
 "11308","Native",36,34,"wrap_up","fp","wrap_up fp",6,0,323,323,-0.5,-0.5,323
 "11310","Native",36,36,"wrap_up","fp","wrap_up fp",8,0,791,791,-0.5,0.5,791
-"11312","Native",36,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"11312","Native",36,46,"wrap_up","fp","wrap_up fp",6,0,97,97,-0.5,-0.5,97
 "11314","Native",36,39,"wrap_up","fp","wrap_up fp",7,0,323,323,0.5,0.5,323
 "11316","Native",36,27,"wrap_up","fp","wrap_up fp",7,0,531,531,0.5,0.5,531
 "11318","Native",36,33,"wrap_up","fp","wrap_up fp",5,0,275,275,0.5,-0.5,275
@@ -865,7 +865,7 @@
 "11328","Native",36,48,"wrap_up","fp","wrap_up fp",8,0,877,877,-0.5,0.5,877
 "11330","Native",37,26,"wrap_up","fp","wrap_up fp",7,0,723,723,0.5,0.5,723
 "11332","Native",37,45,"wrap_up","fp","wrap_up fp",6,0,191,191,-0.5,-0.5,191
-"11334","Native",37,46,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
+"11334","Native",37,46,"wrap_up","fp","wrap_up fp",7,0,506,506,0.5,0.5,506
 "11336","Native",37,43,"wrap_up","fp","wrap_up fp",8,0,403,403,-0.5,0.5,403
 "11338","Native",37,31,"wrap_up","fp","wrap_up fp",8,0,264,264,-0.5,0.5,264
 "11340","Native",37,29,"wrap_up","fp","wrap_up fp",6,0,350,350,-0.5,-0.5,350
@@ -888,7 +888,7 @@
 "11374","Native",37,41,"wrap_up","fp","wrap_up fp",6,0,135,135,-0.5,-0.5,135
 "11376","Native",37,33,"wrap_up","fp","wrap_up fp",6,0,346,346,-0.5,-0.5,346
 "11377","Native",38,39,"wrap_up","fp","wrap_up fp",5,0,120,120,0.5,-0.5,120
-"11379","Native",38,46,"wrap_up","fp","wrap_up fp",8,1,0,NA,-0.5,0.5,NA
+"11379","Native",38,46,"wrap_up","fp","wrap_up fp",8,0,339,339,-0.5,0.5,339
 "11381","Native",38,25,"wrap_up","fp","wrap_up fp",7,0,122,122,0.5,0.5,122
 "11383","Native",38,27,"wrap_up","fp","wrap_up fp",5,0,133,133,0.5,-0.5,133
 "11385","Native",38,32,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
@@ -917,7 +917,7 @@
 "11431","Native",39,34,"wrap_up","fp","wrap_up fp",5,0,1379,1379,0.5,-0.5,1379
 "11433","Native",39,31,"wrap_up","fp","wrap_up fp",6,0,284,284,-0.5,-0.5,284
 "11435","Native",39,39,"wrap_up","fp","wrap_up fp",6,0,457,457,-0.5,-0.5,457
-"11437","Native",39,46,"wrap_up","fp","wrap_up fp",5,1,0,NA,0.5,-0.5,NA
+"11437","Native",39,46,"wrap_up","fp","wrap_up fp",5,0,192,192,0.5,-0.5,192
 "11439","Native",39,40,"wrap_up","fp","wrap_up fp",7,0,227,227,0.5,0.5,227
 "11441","Native",39,43,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
 "11443","Native",39,47,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
@@ -956,6 +956,6 @@
 "11510","Native",40,29,"wrap_up","fp","wrap_up fp",5,0,378,378,0.5,-0.5,378
 "11512","Native",40,33,"wrap_up","fp","wrap_up fp",5,0,123,123,0.5,-0.5,123
 "11514","Native",40,44,"wrap_up","fp","wrap_up fp",8,0,645,645,-0.5,0.5,645
-"11516","Native",40,46,"wrap_up","fp","wrap_up fp",6,1,0,NA,-0.5,-0.5,NA
+"11516","Native",40,46,"wrap_up","fp","wrap_up fp",6,0,127,127,-0.5,-0.5,127
 "11518","Native",40,41,"wrap_up","fp","wrap_up fp",5,0,163,163,0.5,-0.5,163
 "11520","Native",40,35,"wrap_up","fp","wrap_up fp",7,1,0,NA,0.5,0.5,NA
